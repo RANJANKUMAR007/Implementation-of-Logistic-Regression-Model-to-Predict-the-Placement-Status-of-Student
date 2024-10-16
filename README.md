@@ -17,12 +17,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 7. Calculate and display the confusion matrix and accuracy score using confusion_matrix() and accuracy_score().
 
 ## Program:
-```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Ranjankumar G
 RegisterNumber:212223240138
 */
+```
 from google.colab import drive
 drive.mount('/content/gdrive')
 import numpy as np
