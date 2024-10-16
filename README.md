@@ -17,7 +17,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 7. Calculate and display the confusion matrix and accuracy score using confusion_matrix() and accuracy_score().
 
 ## Program:
-
+```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Ranjankumar G
@@ -35,7 +35,7 @@ from sklearn.linear_model import LogisticRegression
 
 a=pd.read_csv('/content/Placement_Data_Full_Class (1).csv')
 a
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/cb81a177-2b4d-4139-b8b3-87896d323419)
 ## Info :
